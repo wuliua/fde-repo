@@ -2,4 +2,4 @@
 
 ## 运行
 
-python app.py
+python app.py  # 启动服务（端口 5000）

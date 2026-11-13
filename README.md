@@ -2,4 +2,4 @@
 
 ## 运行
 
-python app.py
+python app.py  # 启动服务（含 /avg 平均值接口）
